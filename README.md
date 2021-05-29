@@ -1,6 +1,6 @@
 # 3D-Vision Group, CVIT, IIIT-Hyderabad
-Resource repository for the 3D-Vision Group @ IIIT Hyderabad
-Advisor: [Dr. Avinash Sharma](https://sites.google.com/site/asharmaresearch)
+Resource repository for the 3D-Vision Group @ IIIT Hyderabad  
+Group Advisor: [Dr. Avinash Sharma](https://sites.google.com/site/asharmaresearch)
 
 ### Papers discussed
 
